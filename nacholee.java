@@ -12,7 +12,7 @@ public class nacholee {
         n1 = sc.nextInt();
 
         System.out.println("Ingrese el número 2");
-        n2 = sc.nextInt()
+        n2 = sc.nextInt();
 
         System.out.println("La suma de los números es: " + (n1 + n2));
         
